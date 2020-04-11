@@ -1,0 +1,20 @@
+{
+  "name": "Edmodo Site",
+  "short_name": "Edmodo Site",
+  "icons": [
+    {
+      "src": "https://a.edim.co/logos/edmodo_logo_new_144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "prefer_related_applications": true,
+  "related_applications": [
+    {
+      "platform": "play",
+      "id": "com.fusionprojects.edmodo"
+    }
+  ],
+  "display": "standalone"
+}
